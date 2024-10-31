@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/professional-website" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/professional-website" # The subpath of your site, e.g. /blog
+url: "https://josechan202.github.io/professional-website/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
