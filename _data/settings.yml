@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Norlin
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
+#title: Resume
+#logo: # You can add own logo. For example '/images/logo.png'.
+#description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 
 
 #-------------------------------
@@ -13,8 +13,8 @@ menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact Me'
-      url: '/contact/'
+#    - title: 'Contact Me'
+#      url: '/contact/'
 #    - title: 'Style Guide'
 #      url: '/styleguide/'
 
@@ -38,7 +38,7 @@ hero:
 # Contact Settings
 contact:
   email: josechan202@email.com # Add your email for contact form
-  description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+#  description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
