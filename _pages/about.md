@@ -5,7 +5,13 @@ permalink: /about/
 image: '/images/newYork.jpg'
 ---
 
-Hello, my name is Jose Chan. I was born and raised in Bronx, New York. 
+Hi! I’m Jose Chan, a passionate software engineer with a Bachelor of Science in Computer Science from the University of Vermont. Born and raised in New York, I faced the challenges of inner city education, which shaped my resilience and determination to succeed. Transitioning to college was a significant shock, but it fueled my commitment to grow and thrive in the tech industry.
+
+I specialize in both frontend and backend development, with experience in JavaScript, React, Angular, Java, Python, and more. I am well-versed in DevOps practices, including the use of Jenkins and Docker, and I have a strong foundation in testing methodologies like TDD and Agile.
+
+In my spare time, I enjoy playing basketball on the weekends, which helps me stay active and unwind.
+
+Feel free to explore my portfolio to see my work, and don’t hesitate to reach out if you’d like to connect!
 
 [//]: # (The city shaped my personality and gave me my shine also kept me stuck)
 
