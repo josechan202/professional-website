@@ -11,7 +11,7 @@ I specialize in both frontend and backend development, with experience in JavaSc
 
 In my spare time, I enjoy playing basketball on the weekends, which helps me stay active and unwind.
 
-Feel free to explore my portfolio to see my work, and don’t hesitate to reach out if you’d like to connect!
+[//]: # (Feel free to explore my portfolio to see my work, and don’t hesitate to reach out if you’d like to connect!)
 
 [//]: # (The city shaped my personality and gave me my shine also kept me stuck)
 
